@@ -44,7 +44,7 @@ Job roles with the highest attrition, such as laboratory technician, sales execu
 
 Over time workers experienced a higher attrition rate.
 
-Employees aged 26-35 had the highest attrition, while those aged 55+ had the least turnover.
+Employees aged 26-35 had the highest attrition, while those aged 55+ had the least attrition.
 
 # Tools Used -
 
